@@ -8,6 +8,7 @@ This page only hosts the downloads. Open **Releases** on the right and download 
 
 - An Android TV or streaming box running Android 8.0 or newer. Both 64-bit and 32-bit devices work.
 - A reasonably powerful device. Your cameras send sharp 4K video, so weaker devices may freeze or show black pictures when several cameras play together. The Nvidia Shield Pro handles it fine.
+- Eufy is notoriously bad at opening several cams at once, so don't expect miracles from this app.
 - A Eufy account with your cameras. A separate account for this app is not strictly needed, but I recommend it.
 - You need to know how to sideload an app to your Android TV device.
 
